@@ -3,4 +3,5 @@
   roles:
     - { role: linux }
     - { role: ansible-role-visual-studio-code }
+    - { role: ansible-role-docker }
 

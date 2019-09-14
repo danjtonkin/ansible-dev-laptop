@@ -1,3 +1,6 @@
 [submodule "ansible-role-visual-studio-code"]
 	path = ansible-role-visual-studio-code
 	url = git@github.com:gantsign/ansible-role-visual-studio-code.git
+[submodule "ansible-role-docker"]
+	path = ansible-role-docker
+	url = git@github.com:geerlingguy/ansible-role-docker.git
