@@ -1,2 +1,12 @@
 ---
 # tasks file for linux
+
+- name: install ansible
+  package:
+    name: ansible
+    state: present
+
+- name: install vim
+  package:
+    name: vim
+    state: present
