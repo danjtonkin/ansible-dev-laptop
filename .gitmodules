@@ -10,3 +10,6 @@
 [submodule "ansible-role-packer"]
 	path = ansible-role-packer
 	url = git@github.com:geerlingguy/ansible-role-packer.git
+[submodule "ansible-role-aws-cli"]
+	path = ansible-role-aws-cli
+	url = git@github.com:ChromaticHQ/ansible-role-aws-cli.git

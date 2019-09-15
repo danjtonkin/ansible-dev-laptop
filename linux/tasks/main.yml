@@ -30,3 +30,8 @@
   package:
     name: wget
     state: present
+
+- name: install tmux
+  package:
+    name: tmux
+    state: present
