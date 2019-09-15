@@ -7,3 +7,6 @@
 [submodule "ansible-role-slack"]
 	path = ansible-role-slack
 	url = git@github.com:wtanaka/ansible-role-slack.git
+[submodule "ansible-role-packer"]
+	path = ansible-role-packer
+	url = git@github.com:geerlingguy/ansible-role-packer.git

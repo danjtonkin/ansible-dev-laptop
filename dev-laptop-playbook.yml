@@ -5,4 +5,5 @@
     - { role: ansible-role-visual-studio-code }
     - { role: ansible-role-docker }
     - { role: ansible-role-slack }
+    - { role: ansible-role-packer }
 
