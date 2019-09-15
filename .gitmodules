@@ -4,3 +4,6 @@
 [submodule "ansible-role-docker"]
 	path = ansible-role-docker
 	url = git@github.com:geerlingguy/ansible-role-docker.git
+[submodule "ansible-role-slack"]
+	path = ansible-role-slack
+	url = git@github.com:wtanaka/ansible-role-slack.git
